@@ -1,0 +1,48 @@
+.tron_photo {
+    width: 450px;
+    height: 360px;
+    border-radius: 35px;
+}
+
+.house_card_div {
+    display: flex;
+    width: 1200px;
+    height: 360px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(100, 93, 93);
+    border-radius: 35px;
+}
+
+.content {
+    margin-left: 40px;
+    max-width: 700pxs;
+    color: rgb(224, 216, 216);
+}
+
+.name {
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.region {
+    font-size: 26px;
+    margin-top: 20px;
+}
+.coatOfArms {
+    font-size: 26px;
+    margin-top: 20px;
+}
+.words {
+    font-size: 26px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.heart {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
